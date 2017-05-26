@@ -2,4 +2,9 @@ cold and dry, but everything is my favorite color.
 the two moons may be a problem for Wolfman.
 I ate an astronaught
 Went on a walk, Earth looks like the bomb
+<<<<<<< HEAD
 A Dinosaur ate my friend
+=======
+Collaborator commit
+this is another comment
+>>>>>>> d4a3f452feb3f07114ca8f847e40eb6b3f316032
